@@ -1,0 +1,2 @@
+# Kaggle_cifar10
+kaggle初始的图像分类csn231群内比赛
